@@ -1,0 +1,39 @@
+_repo: Youth-and-Life_67628
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourne, Randolph Silliman
+    alias: Bourne, Randolph S.
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '54325'
+    url: http://www.gutenberg.org/2009/agents/54325
+    wikipedia: https://en.wikipedia.org/wiki/Randolph_Bourne
+description: ''
+gutenberg_issued: '2022-03-14'
+identifiers:
+  gutenberg: '67628'
+  lccn: '13006062'
+language: en
+pgterms:marc904: https://archive.org/details/youthlife00bour
+pgterms:marc905: 20210310153628bourne
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :Houghton Mifflin Company,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays -- 20th century'
+- GITenberg
+tableOfContents: 'Youth -- The two generations -- The virtues and the seasons of life
+  -- The life of irony -- The excitement of friendship -- The adventure of life --
+  Some thoughts on religion -- The mystic turned radical -- Seeing, we see not --
+  The experimental life -- The dodging of pressures -- For radicals -- The college:
+  an inner view -- A philosophy of handicap.'
+title: Youth and Life
+url: http://www.gutenberg.org/ebooks/67628
