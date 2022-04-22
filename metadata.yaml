@@ -1,5 +1,8 @@
 _repo: Youth-and-Life_67628
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67628-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourne, Randolph Silliman
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54325
     wikipedia: https://en.wikipedia.org/wiki/Randolph_Bourne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67628#Youth-and-Life
 gutenberg_issued: '2022-03-14'
 identifiers:
   gutenberg: '67628'
